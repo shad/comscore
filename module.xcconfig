@@ -1,0 +1,2 @@
+OTHER_LDFLAGS=$(inherited) -F"/opt/frameworks" -framework Security -framework SystemConfiguration -framework comScore
+OTHER_LDFLAGS[sdk=iphoneos6*]=$(inherited) -weak_framework AdSupport

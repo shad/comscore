@@ -1,0 +1,14 @@
+version: 0.1
+apiversion: 2
+description: comScore
+author: Shad Reynolds
+license: Apache
+copyright: Copyright (c) 2013 by Food on the Table
+
+
+# these should not be edited
+name: comscore
+moduleid: com.foodonthetable.comscore
+guid: 7d06629e-92c5-4f0d-84b0-7ce3581e8529
+platform: iphone
+minsdk: 3.0.0.GA
