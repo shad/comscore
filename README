@@ -2,7 +2,7 @@ comScore Module
 ===============
 
 To build your project, you will need to do the following.  The framework is 
-referenced there during the link phase of the build.
+referenced there during the link phase of your project build.
 
 1. Create directory /opt/frameworks
 2. ln -s comScore.framework /opt/frameworks/comScore.framework
